@@ -1,0 +1,28 @@
+
+body{
+    background-color: #EAF6F6;
+}
+h1{
+    color: #0b9a9a;
+}
+h3{
+    color: #0b9a9a;
+}
+tr:nth-child(even)
+{
+    background-color: #cddfdf;
+ 
+}
+td{
+    padding: 10px 20px;
+    margin: 10px;
+}
+hr
+{
+    height: 0px;
+    width: 5%;
+    border-style:none; 
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+}
